@@ -1,4 +1,4 @@
-date,cases,deaths,hospitalized,ICU,recovered
+,cases,deaths,hospitalized,ICU,recovered
 2020-02-14,1,0,0,0,1
 2020-02-15,1,0,0,0,1
 2020-02-16,1,0,0,0,1
