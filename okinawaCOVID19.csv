@@ -1,7 +1,4 @@
-# Data source: https://raw.githubusercontent.com/kaz-ogiwara/covid19/master/data/prefectures.csv					
-# Data provenance: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00086.html					
-# License: MIT license					
-time	cases	deaths	hospitalized	icu	recovered
+date	cases	deaths	hospitalized	icu	recovered
 2020-03-18	3	0	1	0	2
 2020-03-19	3	0	1	0	2
 2020-03-20	3	0	1	0	2
