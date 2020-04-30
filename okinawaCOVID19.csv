@@ -1,4 +1,4 @@
-date	cases	deaths	hospitalized	icu	recovered
+date  cases  deaths  hospitalized  icu	recovered
 2020-03-18	3	0	1	0	2
 2020-03-19	3	0	1	0	2
 2020-03-20	3	0	1	0	2
